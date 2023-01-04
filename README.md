@@ -108,3 +108,5 @@ Each news is a block of both HTML and Markdown. Depending on the category, its h
 beginning of each cycle, when we copy the [template](./template) directory, all sections contains an example. **Do not
 remove it** and simply copy it — that will prevent merge conflicts. The examples will be removed before merging to
 `master`.
+
+fake content
